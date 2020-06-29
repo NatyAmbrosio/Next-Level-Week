@@ -1,2 +1,5 @@
 node_modules
 Ecoleta-nlw/
+views/create-point.html
+views/index.html
+views/search-results.html
